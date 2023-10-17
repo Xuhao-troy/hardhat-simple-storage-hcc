@@ -19,4 +19,8 @@ npx hardhat run scripts/deploy.js
     yarn hardhat
     yarn hardhat --verbose
     yarn install
+    yarn hardhat coverage
+    yarn hardhat node
+    yarn hardhat run scripts/deploy.js --network goerli
+    yarn hardhat clean
  -->
